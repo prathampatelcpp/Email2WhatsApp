@@ -1,0 +1,26 @@
+
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+credentials.json
+token.json
+
+# IDE settings
+.vscode/
+
+# Database files
+*.db
+
+credentials.json
+
+token.pickle
+
+.env
+
+.vscode
